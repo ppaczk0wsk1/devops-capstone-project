@@ -30,4 +30,4 @@ httpie==3.2.1
 
 # Code Security
 flask_talisman==1.1.0
-flask_cors=6.0.2
+flask_cors==6.0.2
